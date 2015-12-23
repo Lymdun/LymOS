@@ -1,0 +1,15 @@
+symbspejok=(*)
+symbspecrochetgauche=[
+symbspecrochetdroit=]
+symbspeaccogauche={
+symbspeaccodroit=}
+symbspesmileyaigu=:>
+symbspeflechevardroit=<-
+symbspeflechevargauche=->
+symbspetilde=~
+symbspebarre=|
+symbspeegal==
+symbspenoreut=<NOREUT>
+symbchangecervdroit=<chgcerva:
+symbsignesup=>
+symbignorer=<IGNORER>

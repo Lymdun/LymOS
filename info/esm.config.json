@@ -1,0 +1,43 @@
+{
+    "esm": {
+        "version": "1.1",
+        "website": "http://www.lymdun.fr",
+        "check_updates": false,
+        "auto_refresh": 0
+    },
+    "disk": {
+        "show_tmpfs": false
+    },
+    "ping": {
+        "hosts": [
+            "google.com",
+            "twitter.com",
+            "protonmail.ch"
+        ]
+    },
+    "last_login": {
+        "max": 5
+    },
+    "services": [
+        {
+            "name": "Web Server",
+            "host": "localhost",
+            "port": 80
+        },
+        {
+            "name": "SFTP Server",
+            "host": "localhost",
+            "port": 22
+        },
+        {
+            "name": "Database Server",
+            "host": "localhost",
+            "port": 3306
+        },
+        {
+            "name": "SSH Service",
+            "host": "localhost",
+            "port": 22
+        }
+    ]
+}
