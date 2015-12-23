@@ -24,11 +24,15 @@
 
     <!-- Fav and touch icons -->
     <link rel="shortcut icon" type='image/ico' href="./assets/ico/favicon.ico">
-    <embed src="./assets/ost/AI.mp3" autostart="true" loop="false" hidden="true"></embed>
+
+	<!-- Import jQuery and bootstrap -->
+	<script src="assets/js/jquery.min.js" type=text/javascript></script>
+	<script src="assets/js/bootstrap.js" type=text/javascript></script>
 
   </head>
 
   <body>
+	<audio autoplay hidden src="./assets/ost/AI.mp3"><!-- Your browser doesn't support HTML5, please update it to its latest version --></audio>
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -62,7 +66,5 @@
       <p>What are you doing here?<br> It's not the good place for you...</p>
 
     </div> <!-- /container -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.js"></script>
   </body>
 </html>
