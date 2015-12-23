@@ -10,7 +10,7 @@ $Config = new Config();
     <?php if ($Config->get('esm:auto_refresh') > 0): ?>
         <meta http-equiv="refresh" content="<?php echo $Config->get('esm:auto_refresh'); ?>">
     <?php endif; ?>
-    <meta name="viewport" content="width=device-width,initial-scale=1" /> 
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Lym Server Monitor - <?php echo Misc::getHostname(); ?></title>
     <link rel="stylesheet" href="web/css/utilities.css" type="text/css">
     <link rel="stylesheet" href="web/css/frontend.css" type="text/css">
@@ -99,7 +99,7 @@ $Config = new Config();
                         <td id="system-current_users"></td>
                     </tr>
                     <tr>
-                        <td>Server date & time</td>
+                        <td>Server date &amp; time</td>
                         <td id="system-server_date"></td>
                     </tr>
                 </tbody>
@@ -221,7 +221,7 @@ $Config = new Config();
                     </tr>
                 </thead>
                 <tbody>
-                    
+
                 </tbody>
             </table>
         </div>
@@ -351,7 +351,7 @@ $Config = new Config();
 
     </div>
 
-    
+
 
     <div class="cls"></div>
 
