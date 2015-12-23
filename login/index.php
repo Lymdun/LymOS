@@ -41,7 +41,24 @@
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    <link rel="shortcut icon" href="/assets/ico/favicon.png">    
+    <link rel="shortcut icon" href="/assets/ico/favicon.png">
+
+	<!-- Import jQuery and bootstrap -->
+	<script src="../assets/js/jquery.min.js" type=text/javascript></script>
+	<script src="../assets/js/bootstrap.js" type=text/javascript></script>
+
+	<!-- Block the form if its values are not correct -->
+	<script>
+		function formCheck(form) {
+			if (form.username !== "" && form.password !== "")  {
+				return true
+			} else {
+				return false
+			}
+			// return (form.username !== "" && form.password !== "")
+		}
+	</script>
+
   </head>
   <body>
 
@@ -71,19 +88,15 @@
     </div>
 
     <div class="container">
-      <form class="form-signin">
+      <form class="form-signin" onsubmit="return formCheck();"> <!-- Strange syntaxe but it's the way it has to be done. -->
         <h2 class="form-signin-heading">Login</h2>
-        <input type="text" class="input-block-level" placeholder="Username" name="username" id="username">
-        <input type="password" class="input-block-level" placeholder="Password" name="password" id="password" >
+        <input type="text" class="input-block-level" placeholder="Username" name="username" id="username" required>
+        <input type="password" class="input-block-level" placeholder="Password" name="password" id="password" required>
         <label class="checkbox">
           <input type="checkbox" value="remember-me"> Remember me
         </label>
         <button class="btn btn-large btn-primary" type="submit">Login</button>
       </form>
     </div> <!-- /container -->
-
-    <script src="../assets/js/jquery.min.js"></script>
-    <script src="../assets/js/bootstrap.js"></script>
   </body>
 </html>
-
