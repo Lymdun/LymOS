@@ -5,6 +5,7 @@
 ### What is this repository for? ###
 
 LymOS is a project of an Artificial Intelligence who can answer to all questions and control the host server.
+Please see the wiki for more informations.
 
 
 
@@ -24,7 +25,7 @@ LymOS is a project of an Artificial Intelligence who can answer to all questions
 
 ### How do I get set up? ###
 
-Just upload this repository in your server on /public_html/yourdirectory or /var/www/yourdirectory
+Just upload this repository in your server on /public_html/yourdirectory or /var/www/yourdirectory  
 Put CHMOD on ls/index.php at 774 and ls/logs (folder+files) at 775.
 
 
