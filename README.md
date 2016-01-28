@@ -34,7 +34,7 @@ Put CHMOD on ls/index.php at 774 and ls/logs (folder+files) at 775.
 
 First off, thanks for taking the time to contribute!
 
-ToDo List: https://trello.com/b/fTcmspQV/lymos
+ToDo List: See issues with todo label
 
 Please send a GitHub Pull Request to us with a clear list of what you've done.
 Always write a clear log message for your commits.
