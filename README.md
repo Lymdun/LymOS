@@ -28,7 +28,7 @@ Latest version: https://system.lymdun.fr/
 ### How do I get set up? ###
 
 Just upload this repository in your server on /public_html/yourdirectory or /var/www/yourdirectory  
-Put CHMOD on ls/index.php at 774 and ls/logs (folder+files) at 775.
+Put CHMOD on ls/index.php at 774 and ls/logs (folder+files) at 777.
 
 
 

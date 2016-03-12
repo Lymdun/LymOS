@@ -3355,8 +3355,8 @@ google=Google ? C'est par ici <-url(google,http://www.google.fr)->.|C'est drôle
 /// si on ne trouve pas une phrase qui correspond, il cherchera un mot clé dans la phrase de l'utilisateur...LISTE DES MOTS CLEFS ! Tadaaam !
 ton créateur te l'appren=Il s'en rendra compte en lisant le compte rendu de cette conversation.|Il pourra lire tes suggestions en lisant l'historique de cette conversation.|Envoie-lui un mail sinon, ça lui fera plaisir.
 pourquoi tu me demande=Holala, écoute : je suis un programme pour di-scu-ter, ok ? C'est normal que je te demande des choses ! Tu comprends ?
-pourquoi(*) ton créateur(*)?=Je sais pas. Tu peux lui demander : lymdun@protonmail.ch , il se fera un plaisir de te répondre. Ou laisse moi ton mail, il le verra en lisant notre conversation.
-pourquoi(*) ton createur(*)?=Je sais pas. Tu peux lui demander : lymdun@protonmail.ch , il se fera un plaisir de te répondre. Ou laisse moi ton mail, il le verra en lisant notre conversation.
+pourquoi(*) ton créateur(*)?=Je sais pas. Tu peux lui demander : lymdun@protonmail.com , il se fera un plaisir de te répondre. Ou laisse moi ton mail, il le verra peut-être en lisant notre conversation.
+pourquoi(*) ton createur(*)?=Je sais pas. Tu peux lui demander : lymdun@protonmail.com , il se fera un plaisir de te répondre. Ou laisse moi ton mail, il le verra peut-être en lisant notre conversation.
 sens (*) ton nom (*)?=Je ne sais pas trop à quoi mon programmeur pensais...Il était jeune, c'était en il y a longtemps.
 sens (*) ton pr(*)nom (*)?=Je ne sais pas trop à quoi mon programmeur pensais...Il était jeune, c'était il y a longtemps.
 ça veut dire(*) LymOS(*)?='LymOS'. Mon nom a peut etre une portée très philosophique, mais elle m'échappe totalement, utilisateur.
