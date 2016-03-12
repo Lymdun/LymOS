@@ -7,6 +7,8 @@
 LymOS is a project of an Artificial Intelligence who can answer to all questions and control the host server.
 Please see the wiki for more informations.
 
+Latest version: https://system.lymdun.fr/
+
 
 
 ### Features ###
