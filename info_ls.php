@@ -62,7 +62,7 @@
       <div class="glitch" data-text="LYMOS MONITORING"><h1>LymOS Monitoring</h1></div>
       <br><p>Vent: <font color="green">OK</font>
       <br>Temp: <font color="green">OK</font>
-      <br>Network: <font color="orange">MINOR PROBLEMS</font>
+      <br>Network: <font color="green">OK</font>
       <br>Security: <font color="green">OK</font>
       <br>Core1: <font color="green">OK</font>
       <br>Reac1: <font color="green">OK</font>
