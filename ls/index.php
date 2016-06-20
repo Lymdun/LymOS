@@ -1462,7 +1462,7 @@ if (file_exists("AR.txt")) {
     echo"<br>Derni&egrave;re modification du core principal : " . date ("d/m/Y H:i:s.", filemtime("AR.txt"));
 	echo"<br>Derni&egrave;re modification du systeme : " . date ("d/m/Y H:i:s.", filemtime("index.php"));
 	echo"<br>Mail de l'administrateur : lymdun@protonmail.com";
-	echo"<br><br>Toutes vos conversations sont enregistrées dans l'unique but d'analyse pour améliorer le LymOS et ne sont pas utilisées à d'autres fins.";
+	echo"<br><br>Toutes vos conversations sont enregistrées dans l'unique but d'analyse pour améliorer LymOS et ne sont pas utilisées à d'autres fins.";
 }
 ?> 
 </div>
