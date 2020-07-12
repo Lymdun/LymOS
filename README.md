@@ -4,10 +4,10 @@
 
 ### What is this repository for? ###
 
-LymOS is a project of an Artificial Intelligence who can answer to all questions and control the host server.
+LymOS is a project of a talkative bot who can answer to all questions and control the host server.
 Please see the wiki for more informations.
 
-Latest version: https://system.lymdun.fr/
+Latest version: https://alteros-online.com/lymdun/system/ls
 
 
 
